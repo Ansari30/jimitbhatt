@@ -407,7 +407,7 @@
 		<div class="container">	
 				<h3 class="w3l-heading">contact</h3>
 				<div class="w3_agile-contact  jarallax text-center">
-					<form action="#" method="get">
+					<form action="process.php" name="frm1" id="frm1" method="post">
 						<input type="text" placeholder="Name" name="name" class="name" required>
 						<input type="text" placeholder="Phone Number" name="phone" class="name" required>
 						<input type="email" placeholder="Email" name="email" class="email" required>
